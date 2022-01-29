@@ -22,11 +22,11 @@
         "display7Size": 1,
         "display4Font": "Urbanist",
         "display4Size": 1.125,
-        "isRoundedButtons": false,
-        "isGhostButtonBorder": false,
-        "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isRoundedButtons": true,
+        "isGhostButtonBorder": true,
+        "underlinedLinks": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "titlePreset": "Music App",
       "nameSelectPreset": "music-app",
